@@ -11,13 +11,45 @@ When you have completed the template, submit the link to the GitHub Pages site f
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Insert name of project*
+*Jamboxx*
 
 *Insert URL to project*
 
 ![Image](missingimage.png)
 
 This project is related to mine because *insert reasons here*.
+
+
+### Related project 2 ###
+*TEC USB MIDI Breath Controller*
+
+*Inset all URL to project*
+
+
+### Related project 3 ###
+*Mi.Mu Gloves by Imogen Heap*
+
+*INSERT SHIT*
+
+
+### Related project 4 ###
+*Talk Box*
+
+*Insert Shit*
+
+
+### Related project 5 ###
+*Ohmerometer by Helen Collard and Alistair MacDonald*
+
+*https://catchyourbreath.org/kids-in-museums-takeover-day/ 1:19 to 2:38*
+
+
+### Related project 6 ###
+*Roland - Aerophone AE-10*
+
+*https://www.roland.com/au/products/aerophone_ae-10/*
+
+
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
@@ -29,10 +61,15 @@ This project is related to mine because *insert reasons here*.
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+*To explore breath as expression.*
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
+*A Creative Tool for Abstract Art*
+
+This would be an interactive art piece in which there is a large canvas and one or more tubes (with mouth-pieces) which connected to the canvas frame. Viewers would be encouraged to blow into the mouthpieces. This action would result in changes in what would appear on this canvas, depending on the length, interval and intensity of breath. Which would result in the formation of blobs varying in size, shape and colour corresponding to those variables. This would be similar to how Suminagashi (see here https://www.youtube.com/watch?v=qwaLFLbqJQg for an example) looks. 
+
+
+Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
