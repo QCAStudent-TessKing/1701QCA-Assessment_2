@@ -1,64 +1,82 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
-You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
-
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
 ## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+
+### Aeolus ###
+
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
+
 
 ### Related project 1 ###
+
 #### Jamboxx ####
 
 *https://www.jamboxx.com/*
 
-![Image](missingimage.png)
+![jamboxx](https://user-images.githubusercontent.com/62095800/79901409-1fddc100-8453-11ea-8c0a-a6ad9c8214b0.png)
 
 This project is related to mine because of the method of sound generation and creation. 
 
 
 ### Related project 2 ###
+
 #### TEC USB MIDI Breath Controller ####
 
 *https://www.tecontrol.se/products/usb-midi-breath-controller*
 
+![tec_MIDI](https://user-images.githubusercontent.com/62095800/79901401-1d7b6700-8453-11ea-85d0-894bc6f7893a.jpg)
+
 The TEC MIDI breath controller was the industry pioneer of digital breath controllers in the professional world. It's related due to the overal design concept and the conceptual model. 
 
-### Related project 3 ###
-#### Mi.Mu Gloves by Imogen Heap ####
 
+### Related project 3 ###
+
+#### Mi.Mu Gloves by Imogen Heap ####
 
 *https://mimugloves.com/*
 
+![mi mu](https://user-images.githubusercontent.com/62095800/79901412-20765780-8453-11ea-8bb9-9e42fff4bebe.jpg)
+
 The Mi.Mu gloves are based on expression through intricate gesture of the hands. I found it relevant to look at how others approached the task of complex expression through one specific type of gesture. 
 
-### Related project 4 ###
-#### Talk Box ####
 
+### Related project 4 ###
+
+#### Talk Box ####
 
 *https://en.wikipedia.org/wiki/Talk_box*
 
+![talkbox](https://user-images.githubusercontent.com/62095800/79901394-1c4a3a00-8453-11ea-8847-7ca6076e8a7b.jpg)
+
 This "vintage" product is very similar to my final conception in terms of materials and fabrication. 
 
+
 ### Related project 5 ###
+
 #### Ohmerometer by Helen Collard and Alistair MacDonald ####
 
 *https://catchyourbreath.org/kids-in-museums-takeover-day/ 1:19 to 2:38*
 
+![ohmerometerll](https://user-images.githubusercontent.com/62095800/79901413-210eee00-8453-11ea-8028-a42f99809800.jpg)
+
 The relevance here relates more to the concept of my design. Through an interactive art piece Ohmerometer was able to reach a wider and more receptive audience and still showcases the basic model. 
 
+
 ### Related project 6 ###
+
 #### Roland - Aerophone AE-10 ####
 
 *https://www.roland.com/au/products/aerophone_ae-10/*
 
+![roland_aerophone](https://user-images.githubusercontent.com/62095800/79901416-22d8b180-8453-11ea-9623-8c34202076e0.jpg)
+
 Here, Roland's product is a highly sophisticated fabrication but very similar in conceptual model, design and basic technical flow. 
 
+
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+
 
 ### ASPECTS OF GESTURE IN DIGITAL MUSICAL INSTRUMENT DESIGN - William Brent ###
 
@@ -73,6 +91,7 @@ This resource goes nto detail of the psychology of gesture as part of the relati
 
 This DIY journal and guide is the main inspiration and technical research I've found. In it, the author describes their process for creating this MIDI controller for their synthesizers. He delves into the technical aspect of realising his ideation. In particular, providing schematics of his electronic setup and coding. He is also honest about the difficulties he had along the way, as well as the outcome. 
 
+
 ## Conceptual progress ##
 
 ### Design intent ###
@@ -81,7 +100,9 @@ As a general and condensed statement:
 
 *To explore breath as expression*
 
+
 ### Design concept 1 ###
+
 #### A Creative Tool or Installation for Abstract Art ####
 
 This would be an interactive art piece in which there is a large canvas and one or more tubes (with mouth-pieces) which connected to the canvas frame. Viewers would be encouraged to blow into the mouthpieces. This action would result in changes in what would appear on this canvas, depending on the length, interval and intensity of breath. Which would result in the formation of blobs varying in size, shape and colour corresponding to those variables. This would be similar to how Suminagashi (see here https://www.youtube.com/watch?v=qwaLFLbqJQg for an example) looks. An idea for technical execution was to either utilise a pre-existing screen or create once out of a matrix of strip LEDs or similar. 
@@ -93,38 +114,101 @@ Outline three design concepts, each developed to a point where you anticipate it
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
+
 ### Design concept 2 ###
+
 #### The Calm-Down Friend ####
 
 This idea realises the intent by giving users a means to consider their breath more intently. It would be a compact box or similar object which the user breathes into. From there, the box will tell the user if they should slow their breathing down, deepen their breath or hold it for longer. This is intended to assist people in meditative practices and anxiety control methods. The interaction with the user would be some light and sound feedback. It could be sampled speech or ambient music which changes as your breath slows and portrays a calmer nature.
 
+
 ### Final design concept ###
+
 #### Aeolus ####
 
 This is a product which is designed for users to better understand the expressivity of breath through predominately musical feedback. It is designed around affordances and mappings of acoustic wind instruments. The sound generated is of a lower concern than the interactions which produce them. These interactions are focused around the breath and the gestures it contributes to in other areas of the body. The interactions capable with Aeolus are: breathing into the mouthpiece, holding it (preferably at the hand holds) and moving it (preferably from a central pivoting point at the mouth). This simplistic interaction model is designed with the intent that as users experiment more with the instrument, they naturally grow more aware of the movement of the entire body due to the breath and the subtleties which drastically change the sound. Or more simply: to draw attention to the expressivity of breath through sound expression. While the sound generation is a vast world of expression and feedback for the user, I felt that adding visual responses added personability to the instrument itself. Being an instrument which is an extension of the human body, this personability will aid viewers experience a deeper expression from the performer. 
 
-### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+### Interaction flowchart ###
+
+![flow_chart](https://user-images.githubusercontent.com/62095800/79901406-1eac9400-8453-11ea-9490-abefd6d4faca.jpg)
+
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
+### First Draft of Design ###
 
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+![first_draft](https://user-images.githubusercontent.com/62095800/79901528-4ac81500-8453-11ea-9f24-162215a79294.jpg)
 
-![Image](missingimage.png)
+Just a simple hand drawing of a rough idea at the very beginning of the whole process.
 
 
-PROOF OF CONCEPT - LIGHT
-https://youtu.be/sq_ULI16xQg
+### Paper Net 1 ###
 
-PROOK OF CONCEPT - LIGHT & SOUND
-https://youtu.be/w1QcQ_9QPm0
+![papernet](https://user-images.githubusercontent.com/62095800/79902583-1190a480-8455-11ea-9781-97682f883420.jpg)
+
+This was the first physical creation of my 3D model. I found free software that created a paper net of the model so that you could cut, fold and glue where indicated to achieve the 3D model in real life. This is especially useful for someone like myself, who is quite bad at paper crafts in general and terrible at measuring, drawing in a straight line and folding specifically.
+
+
+### Paper Construction ###
+
+![paper](https://user-images.githubusercontent.com/62095800/79902557-06d60f80-8455-11ea-94c0-2e7a5a26b9e9.jpg)
+
+![paper (2)](https://user-images.githubusercontent.com/62095800/79902551-0473b580-8455-11ea-8e6b-d01e753e7637.jpg)
+
+![paper_held](https://user-images.githubusercontent.com/62095800/79902562-09d10000-8455-11ea-9fb5-4034f5d2972a.jpg)
+
+These are a few images of the paper net folded and taped together as a full 3D shape. I couldn't get the curving pieces in the hand holds to stick to the full model. The third image shows someone holding it as intended for context. At this point, I found that the scale I chose was far too small and was causing discomfort due to the angle of the wrists and elbows.
+
+
+### Paper to Cardboard ###
+
+![paper_to_cardboard](https://user-images.githubusercontent.com/62095800/79902571-0dfd1d80-8455-11ea-8319-a2ff168d907e.jpg)
+
+Here is an expanded version of the paper model overlayed on B flute cardboard, ready to be cut. At this point, I really wanted to move onto a material that was far more durable and sturdy to work with. The scale was upped from X2u to X3.5u.
+
+
+### Cardboard Iteration I ###
+
+![cardboard_l](https://user-images.githubusercontent.com/62095800/79901473-3a179f00-8453-11ea-89f6-4666d49fa48c.jpg)
+
+![cardboard_l (2)](https://user-images.githubusercontent.com/62095800/79901461-371cae80-8453-11ea-8eb9-f4146700263b.jpg)
+
+This shows my very first attempt at cardboard construction of the form. I immediately found an issue. As seen in the second image, the apex points of the front and back were misaligned due to a measurement error. I changed my methodology after this.
+
+
+### Cardboard Iteration II ###
+
+![cardboard_ll](https://user-images.githubusercontent.com/62095800/79901484-3e43bc80-8453-11ea-99b8-c3fec187cf44.jpg)
+
+![cardboard_ll_held](https://user-images.githubusercontent.com/62095800/79901499-43087080-8453-11ea-8e81-50b9d75e008f.jpg)
+
+This is the second iteration of cardboard construction. This version is far more successful than the previous. The feedback I got was still that the handholds were a little uncomfortable.
+
+
+
+### Cardboard Iteration III ###
+
+![cardboard_lll](https://user-images.githubusercontent.com/62095800/79901511-47348e00-8453-11ea-80f6-268a94cae078.jpg)
+
+This is the final iteration that I constructed for this journal. My changes to the hand holds were well received but felt that there was still room for improvement there. I intend to up the scale further and alter the width of the construction. 
+
+
+### Technical Testing - Proof of Concept - Light ###
+
+![makecode_proofofconcept](https://user-images.githubusercontent.com/62095800/79901531-4b60ab80-8453-11ea-9f2b-bb6db09ea7c3.png)
+
+This is basic code using the Mircobit that's designed to test the concept of breath controlling sound and light based feedback.
+
+![technical_concept_proof](https://user-images.githubusercontent.com/62095800/79901445-308e3700-8453-11ea-83fa-2e2e1cd7d9f7.jpg)
+
+Here is the electronic circuit that goes along with this basic code. The video testing is available here: https://youtu.be/sq_ULI16xQg
+
+
+### Technical Testing - Proof of Concept - Light & Sound ###
+
+This test was quite useful in seeing the very basic principles in action, no matter how "low quality" the result was. The video which shows this cohesive proof of concept and design is here: https://youtu.be/w1QcQ_9QPm0
+
 
 ## Design process discussion ##
 
