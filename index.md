@@ -110,11 +110,6 @@ This would be an interactive art piece in which there is a large canvas and one 
 There was a variation of this concept that I had. Instead of mouthpieces and tubes, viewers would blow directly onto the "canvas". Technically, this could be achieved with sensors hidden in areas of the screen (far more suitable to the second fabrication concept) which measured the breath.
 
 
-Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
-
-
 ### Design concept 2 ###
 
 #### The Calm-Down Friend ####
